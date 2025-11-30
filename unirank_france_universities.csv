@@ -1,0 +1,232 @@
+rank,name,town
+210,3iL École d'ingénieurs,Limoges
+80,AgroParisTech,Paris
+16,Aix-Marseille Université,Marseille
+69,Arts et Métiers ParisTech,Paris
+102,Audencia Business School,Nantes
+89,Avignon Université,Avignon
+139,Bordeaux INP,Talence
+208,Brest Business School,Brest
+180,BUILDERS École d'ingénieurs,Épron
+140,Burgundy School of Business,Dijon
+226,Campus Adventiste du Salève,Collonges-sous-Saleve
+115,Centrale Lille,Villeneuve-d'Ascq
+148,Centrale Méditerranée,Marseille
+34,CentraleSupélec,Gif-sur-Yvette
+95,CESI École d'Ingénieurs,Paris
+45,CY Cergy Paris Université,Cergy-Pontoise
+172,CY Tech,Cergy-Pontoise
+174,ECAM Lyon,Lyon
+216,ECAM Rennes Louis de Broglie,Bruz
+Un,ECAM Strasbourg-Europe,Schiltigheim
+215,ECAM-EPMI,Cergy-Pontoise
+149,ECE Paris,Paris
+21,École Centrale de Lyon,Écully
+91,École Centrale de Nantes,Nantes
+214,École de Biologie Industrielle,Cergy-Pontoise
+228,École de Commerce de Valence,Valence
+227,École de Gestion et de Commerce d'Occitanie,Rodez
+123,École de Management de Normandie,Caen
+206,École de Management Léonard de Vinci,Paris La Défense
+190,École des Dirigeants et Créateurs d'entreprise,Courbevoie
+37,École des Hautes Études Commerciales de Paris,Jouy-en-Josas
+71,École des Hautes Études Commerciales du Nord,Roubaix
+93,École des Hautes Études en Santé Publique,Rennes
+32,École des Hautes Études en Sciences Sociales,Paris
+193,École des Ingénieurs de la Ville de Paris,Paris
+65,École des Ponts ParisTech,Champs-sur-Marne
+130,École d'ingénieur généraliste en informatique et technologies du numérique,Villejuif
+201,École d'Ingénieurs de Purpan,Toulouse
+194,École d'Ingénieurs Généralistes La Rochelle,La Rochelle
+171,École d'ingénieurs SIGMA Clermont,Aubière
+220,École Européenne de Management,Paris
+Un,École Nationale de la Météorologie,Toulouse
+161,École Nationale de la Statistique et de l'Analyse de l'information,Bruz
+98,École Nationale de l'Aviation Civile,Toulouse
+164,École Nationale des Travaux Publics de l'État,Vaulx-en-Velin
+170,École Nationale d'Ingénieurs de Brest,Brest
+205,École Nationale d'Ingénieurs de Saint-Étienne,Saint-Étienne
+182,École Nationale d'Ingénieurs de Tarbes,Tarbes
+187,École Nationale Supérieure Agronomique de Toulouse,Auzeville-Tolosane
+229,École Nationale Supérieure d'Architecture de Nancy,Nancy
+207,École Nationale Supérieure de Chimie de Lille,Villeneuve-d'Ascq
+191,École Nationale Supérieure de Chimie de Montpellier,Montpellier
+203,École Nationale Supérieure de Chimie de Paris,Paris
+186,École Nationale Supérieure de Chimie de Rennes,Rennes
+135,École Nationale Supérieure de l'Électronique et de ses Applications,Cergy-Pontoise
+142,École Nationale Supérieure de Mécanique et d'Aérotechnique,Chasseneuil-du-Poitou
+154,École Nationale Supérieure de Mécanique et des Microtechniques,Besançon
+163,École Nationale Supérieure de Techniques Avancées Bretagne,Brest
+176,École Nationale Supérieure des Arts et Industries Textiles,Roubaix
+79,École Nationale Supérieure des Mines de St-Etienne,Saint-Étienne
+179,École nationale supérieure des sciences agronomiques de Bordeaux Aquitaine,Gradignan
+74,École Nationale Supérieure des Sciences de l'Information et des Bibliothèques,Villeurbanne
+175,École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise,Évry
+131,École Nationale Supérieure d'Ingénieurs de Caen,Caen
+119,École Nationale Vétérinaire d'Alfort,Maisons-Alfort
+143,École Nationale Vétérinaire de Toulouse,Toulouse
+156,"École Nationale Vétérinaire, Agroalimentaire et de l'alimentation de Nantes-Atlantique",Nantes
+7,École Normale Supérieure,Paris
+12,École Normale Supérieure de Lyon,Lyon
+150,École Normale Supérieure de Rennes,Bruz
+63,École Normale Supérieure Paris-Saclay,Cachan
+17,École Polytechnique,Palaiseau
+85,École pour l'Informatique et les Techniques Avancées,Le Kremlin-Bicêtre
+157,"École Spéciale des Travaux Publics, du Bâtiment et de l'Industrie",Paris
+159,École Supérieure d'Agriculture d'Angers,Angers
+213,École Supérieure d'Agro-développement International,Angers
+212,École Supérieure de Chimie Organique et Minérale,Compiègne
+155,École Supérieure de Chimie Physique Électronique de Lyon,Villeurbanne
+219,École Supérieure de Commerce d'Amiens,Amiens
+209,École Supérieure de Commerce et de Développement 3A,Lyon
+217,École Supérieure de Fonderie et de Forge,Sèvres
+105,École supérieure de physique et de chimie industrielles de la Ville de Paris,Paris
+165,École Supérieure d'Électronique de l'Ouest,Angers
+66,École Supérieure des Sciences Économiques et Commerciales,Cergy-Pontoise
+160,École Supérieure des Techniques Aéronautiques et de Construction Automobile,Montigny-le-Bretonneux
+218,École supérieure des technologies et des affaires de Belfort,Belfort
+168,École Supérieure des Technologies Industrielles Avancées,Bidart
+124,"École Supérieure d'Informatique, Électronique, Automatique",Paris
+222,École Supérieure d'Ingénieurs des Travaux de la Construction de Metz,Metz
+221,École Supérieure d'Ingénieurs des Travaux de la Construction de Paris,Arcueil
+173,École Supérieure d'Ingénieurs en Génie Électrique,Saint-Étienne-du-Rouvray
+183,École Supérieure d'Ingénieurs Léonard de Vinci,Paris La Défense
+199,École Supérieure du Bois,Nantes
+195,École Supérieure du Commerce Extérieur,Paris
+181,Eklore-ed School of Management,Pau
+77,EMLYON Business School,Écully
+137,ENSAE Paris,Palaiseau
+64,ENSTA Paris,Palaiseau
+151,EPF École d'Ingénieurs,Sceaux
+198,ESAIP École d'Ingénieurs,Saint-Barthélemy-d'Anjou
+57,ESCP Business School,Paris
+111,ESIEE Paris,Noisy-le-Grand
+189,ESME Sudria,Ivry-sur-Seine
+117,ESSCA School of Management,Angers
+88,Eurecom,Sophia-Antipolis
+129,Excelia,La Rochelle
+167,Géodata Paris,Marne-la-Vallée
+99,Grenoble École de Management,Grenoble
+38,Grenoble INP,Grenoble
+158,ICAM - Institut Catholiques d'Arts et Métiers,Lille
+178,ICN Business School,Nancy
+108,IÉSEG School of Management,Lille
+200,IFP School,Rueil-Malmaison
+44,IMT Atlantique,Nantes
+127,IMT Mines Albi,Albi
+145,IMT Mines Alès,Alès
+120,IMT Nord Europe,Douai
+144,INSEEC Alpes-Savoie,Le Bourget-du-Lac
+134,Institut Agro Dijon,Dijon
+121,Institut Agro Rennes-Angers,Rennes
+107,Institut Catholique de Paris,Paris
+184,Institut Catholique de Toulouse,Toulouse
+14,Institut d'Études Politiques de Paris,Paris
+152,Institut d'Optique Graduate School,Palaiseau
+204,Institut International du Commerce et du Développement,Paris
+92,Institut National des Langues et Civilisations Orientales,Paris
+211,Institut National des Sciences Appliquées Centre Val de Loire,Blois
+55,Institut National des Sciences Appliquées de Lyon,Villeurbanne
+126,Institut National des Sciences Appliquées de Rennes,Rennes
+125,Institut National des Sciences Appliquées de Rouen,Saint-Étienne-du-Rouvray
+147,Institut National des Sciences Appliquées de Strasbourg,Strasbourg
+104,Institut National des Sciences Appliquées de Toulouse,Toulouse
+101,Institut national du service public,Strasbourg
+133,Institut National Polytechnique de Toulouse,Toulouse
+146,Institut National Universitaire Champollion,Albi
+166,Institut Polytechnique des Sciences Avancées,Ivry-sur-Seine
+185,Institut Supérieur d'Agriculture et d'Agroalimentaire Rhône-Alpes,Lyon
+177,Institut Supérieur de Gestion,Paris
+94,Institut Supérieur de l'Aéronautique et de l'Espace,Toulouse
+162,Institut Supérieur d'Électronique de Paris,Paris
+196,Institut Supérieur des Biotechnologies de Paris,Villejuif
+223,Institut Supérieur des Matériaux et Mécaniques Avancés du Mans,Le Mans
+225,Institut Supérieur du Bâtiment et des Travaux Publics,Marseille
+192,Institute of Intercultural Management and Communication,Arcueil
+136,IPAG Business School,Paris
+169,ISC Paris Business School,Paris
+202,ITECH Institut Textile et Chimique de Lyon,Écully
+106,Junia,Lille
+83,KEDGE Business School,Talence
+76,La Rochelle Université,La Rochelle
+59,Le Mans Université,Le Mans
+141,L'École de design Nantes Atlantique,Nantes
+41,Mines Paris,Paris
+132,Montpellier Business School,Montpellier
+109,Montpellier SupAgro,Montpellier
+19,Nantes Université,Nantes
+90,NEOMA Business School,Mont-Saint-Aignan
+128,Rennes School of Business,Rennes
+75,SKEMA Business School,Lille
+4,Sorbonne Université,Paris
+224,South Champagne Business School,Troyes
+197,Strate Ecole de Design,Sèvres
+188,Supméca - Institut Supérieur de Mécanique,Saint-Ouen
+40,Télécom Paris,Paris
+81,Télécom SudParis,Évry
+97,The American University of Paris,Paris
+138,Toulouse Business School,Toulouse
+114,UniLaSalle,Beauvais
+68,Université Bordeaux Montaigne,Pessac
+20,Université Bourgogne-Europe,Dijon
+87,Université Bretagne Sud,Lorient
+103,Université Catholique de Lille,Lille
+116,Université Catholique de l'Ouest,Angers
+122,Université Catholique de Lyon,Lyon
+9,Université Claude Bernard Lyon 1,Villeurbanne
+23,Université Clermont Auvergne,Clermont-Ferrand
+10,Université Côte d'Azur,Nice
+31,Université d'Angers,Angers
+86,Université d'Artois,Arras
+8,Université de Bordeaux,Bordeaux
+42,Université de Bretagne Occidentale,Brest
+18,Université de Caen Normandie,Caen
+100,Université de Corse Pasquale Paoli,Corte
+29,Université de Franche-Comté,Besançon
+70,Université de Haute-Alsace,Mulhouse
+3,Université de Lille,Lille
+43,Université de Limoges,Limoges
+6,Université de Lorraine,Nancy
+13,Université de Montpellier,Montpellier
+153,Université de Nîmes,Nîmes
+2,Université de Paris,Paris
+52,Université de Pau et des Pays de l'Adour,Pau
+73,Université de Perpignan Via Domitia,Perpignan
+50,Université de Picardie Jules Verne,Amiens
+24,Université de Poitiers,Poitiers
+53,Université de Reims Champagne-Ardenne,Reims
+62,Université de Rennes,Rennes
+46,Université de Rouen Normandie,Mont-Saint-Aignan
+1,Université de Strasbourg,Strasbourg
+113,Université de Technologie de Belfort-Montbéliard,Belfort
+51,Université de Technologie de Compiègne,Compiègne
+112,Université de Technologie de Troyes,Troyes
+78,Université de Toulon,La Garde
+25,Université de Tours,Tours
+49,Université de Versailles Saint-Quentin-en-Yvelines,Versailles
+96,Université d'Évry-Val d'Essonne,Évry
+60,Université d'Orléans,Orléans
+84,Université du Littoral Côte d'Opale,Dunkerque
+5,Université Grenoble Alpes,Saint-Martin-d'Hères
+28,Université Gustave Eiffel,Marne-la-Vallée
+58,Université Jean Monnet,Saint-Étienne
+54,Université Jean Moulin Lyon 3,Lyon
+110,Université Le Havre Normandie,Le Havre
+26,Université Lumière Lyon 2,Lyon
+15,Université Paris 1 Panthéon-Sorbonne,Paris
+30,Université Paris 8 Vincennes-Saint-Denis,Saint-Denis
+22,Université Paris Nanterre,Nanterre
+36,Université Paris-Dauphine,Paris
+47,Université Paris-Est Créteil Val de Marne,Créteil
+67,Université Paris-Panthéon-Assas,Paris
+11,Université Paris-Saclay,Saint-Aubin
+61,Université Paul Valéry Montpellier 3,Montpellier
+82,Université Polytechnique Hauts-de-France,Valenciennes
+39,Université Rennes 2,Rennes
+56,Université Savoie Mont Blanc,Chambéry
+48,Université Sorbonne Nouvelle - Paris 3,Paris
+35,Université Sorbonne Paris Nord,Villetaneuse
+33,Université Toulouse - Jean Jaurès,Toulouse
+72,Université Toulouse Capitole,Toulouse
+27,Université Toulouse III - Paul Sabatier,Toulouse
+118,VetAgro Sup,Lempdes
